@@ -1,3 +1,4 @@
-This is an update to Catz.rb
+puts "Hello Cats!"
+puts "Good Night!"
 
-HI!
+["Sasha","Malio"]
